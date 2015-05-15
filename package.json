@@ -13,6 +13,10 @@
   "author": "Cristian Gartner",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.8.11"
+    "gulp": "^3.8.11",
+    "gulp-install": "^0.4.0",
+    "gulp-sass": "^2.0.1",
+    "gulp-uglify": "^1.2.0",
+    "node-bourbon": "^4.2.2"
   }
 }
